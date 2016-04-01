@@ -1,0 +1,9 @@
+ec2_keypair: "krishna_aws"
+ec2_security_group: "New"
+ec2_instance_type: "t2.micro"
+ec2_image: "ami-815cb6e1"
+ec2_region: "us-west-2"
+ec2_tag_Name: "Testserver"
+ec2_tag_Type: "Testserver"
+ec2_tag_Environment: "development"
+ec2_volume_size: 8
